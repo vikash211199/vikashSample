@@ -1,0 +1,8 @@
+D:\.netframe work project\AutoImplementation\AutoImplementation\bin\Debug\AutoImplementation.exe.config
+D:\.netframe work project\AutoImplementation\AutoImplementation\bin\Debug\AutoImplementation.exe
+D:\.netframe work project\AutoImplementation\AutoImplementation\bin\Debug\AutoImplementation.pdb
+D:\.netframe work project\AutoImplementation\AutoImplementation\obj\Debug\AutoImplementation.csproj.AssemblyReference.cache
+D:\.netframe work project\AutoImplementation\AutoImplementation\obj\Debug\AutoImplementation.csproj.SuggestedBindingRedirects.cache
+D:\.netframe work project\AutoImplementation\AutoImplementation\obj\Debug\AutoImplementation.csproj.CoreCompileInputs.cache
+D:\.netframe work project\AutoImplementation\AutoImplementation\obj\Debug\AutoImplementation.exe
+D:\.netframe work project\AutoImplementation\AutoImplementation\obj\Debug\AutoImplementation.pdb
